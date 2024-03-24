@@ -1,0 +1,8 @@
+Step 1: Install these liberaries by executing these commands:
+
+pip install pandas
+pip install numpy
+pip install scikit-learn
+
+
+
